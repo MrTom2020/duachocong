@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ThemXoaSua_LietKeThongKe.ThemChiTietChiTieu">
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="210dp">
+
+        <TableRow>
+
+            <EditText
+                android:layout_width="106dp"
+                android:textSize="14dp"
+                android:text="nhập tiền :">
+
+            </EditText>
+
+            <EditText
+                android:id="@+id/txtTenCTCT_ThemCTCT"
+                android:layout_width="307dp">
+
+            </EditText>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:text="Nhập Chi tiết :">
+
+            </TextView>
+
+            <EditText>
+
+            </EditText>
+        </TableRow>
+
+        <TableRow>
+
+            <ImageView>
+
+            </ImageView>
+
+            <EditText>
+
+            </EditText>
+        </TableRow>
+
+        <TableRow>
+
+            <ImageView>
+
+            </ImageView>
+
+            <EditText>
+
+            </EditText>
+        </TableRow>
+
+        <TableRow>
+
+
+        </TableRow>
+    </TableLayout>
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+         />
+
+</LinearLayout>

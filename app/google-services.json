@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204279630910",
+    "project_id": "tieuluancuoiky",
+    "storage_bucket": "tieuluancuoiky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204279630910:android:a9f06e98e132ff968e556f",
+        "android_client_info": {
+          "package_name": "com.example.quanlychitieu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204279630910-2knp2hacricma9r46uj7il61efe4jc6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ8h-0Ywt8cXqkJnR2bLdAuFDmSE6f-gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204279630910-2knp2hacricma9r46uj7il61efe4jc6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
